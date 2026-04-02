@@ -9,6 +9,7 @@ description = "A configuration management tool"
 requires-python = ">=3.11"
 dependencies = [
     "pyyaml",
+    "typer",
 ]
 
 [project.optional-dependencies]
